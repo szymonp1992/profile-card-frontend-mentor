@@ -26,12 +26,12 @@ main {
     background-size: 60vh, 60vh;
 }
 
-@media (min-width: 1000px) {
+/* @media (min-width: 1000px) {
     main {
         background: url(/images/bg-pattern-top.svg) -50vw -50vh no-repeat, url(/images/bg-pattern-bottom.svg) 50vw 50vh no-repeat;
         background-size: 100vw, 100vw;
     }
-}
+} */
 
 .profile-card {
     display: flex;
